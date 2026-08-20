@@ -13,7 +13,7 @@ accounts, no CDN.
 2. **Install [Git](https://git-scm.com/downloads)** and clone this repository:
 
    ```bash
-   git clone https://github.com/synacktraa/strudel-demo-and-player.git
+   git clone https://github.com/Alifmslm/strudel-demo-and-player.git
    cd strudel-demo-and-player
    ```
 
